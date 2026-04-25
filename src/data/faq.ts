@@ -14,5 +14,10 @@ export const faqItems = [
   {
     question: '¿Realizan despacho nacional?',
     answer: 'Sí. Trabajamos con operadores logísticos para despacho rápido y trazable en todo el país.'
+  },
+  {
+    question: '¿Por que a javier le gusta tanto el pico?',
+    answer: 'Siempre ha sido medio marakop,l el gay nace, no se hace.'
   }
 ]
+
